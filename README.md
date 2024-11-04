@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Ryu, a freshman at UCLA studying Cognitive Science. I’m interested in artificial intelligence, particularly computer vision and autonomous systems. I plan on pursuing a career in research in these disciplines. Outside of academics, I enjoy running and cooking. Looking forward to connecting with you!
+Hello! I’m Ryu, a second-year UCLA student studying Computer Science. I’m interested in artificial intelligence for robotics applications, particularly computer vision and autonomous control. I plan on pursuing a career in research in these disciplines. Outside of academics, I enjoy running and cooking. Looking forward to connecting with you!
 
 
 ## 🌐 Socials:
